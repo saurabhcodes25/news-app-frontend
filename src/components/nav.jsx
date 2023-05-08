@@ -69,11 +69,11 @@ export default function Nav() {
                     <MobileItems>
                         <Navbar.Toggle aria-label="toggle navigation" />
                         <Text b color="inherit" hideIn="xs" onClick={() => navigate('/')}>
-                            Positive Vibes
+                            News App
                         </Text>
                     </MobileItems>
                     <Text b color="inherit" hideIn="xs" onClick={() => navigate('/')}>
-                        Positive Vibes
+                        News App
                     </Text>
                 </Navbar.Brand>
 
